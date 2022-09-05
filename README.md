@@ -1,0 +1,2 @@
+# Dhvani-Research-And-Development-Solutions
+Dhvani Research, an IIT Madras incubated company, is located at IITM Research Park, a technology hub of India, and leverages the talent, facilities, and experiences of IITM, The Center for Non-Destructive Evaluation at IITM (CNDE), and ESCON Technologies, Singapore. With over 12 years of operational expertise, Dhvani has created a very reliable ecosystem that consists of personnel with strong technical and managerial expertise in NDT system solutions.
